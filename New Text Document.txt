@@ -1,0 +1,17 @@
+pengguna -> halaman beranda
+	 -> halaman profil
+	 -> halaman tiket active dan riwayat tiket
+
+-> beranda -> informasi kapal
+	   -> list kapal yang beropersi
+		-> jadwal kapal
+
+-> profil -> data akun profil yang dapat di ganti atau menambahkan nomer pengguna 
+	  -> sistem logout
+	  -> data voucher
+
+-> daftar tiket telah dibooking -> tiket di booking 
+				-> riwayat tiket
+
+-> tiket dibooking -> tiket belum di bayar -> jika belum tampilkan tombol bayar
+		   -> tiket sudah dibayar -> jika sudah tampilkan status lunas
