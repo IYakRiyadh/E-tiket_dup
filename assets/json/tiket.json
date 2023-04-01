@@ -1,0 +1,123 @@
+{
+  "Hulalo": {
+    "asal": [
+      {
+        "id": "a1",
+        "nama": "Kalianget"
+      },
+      {
+        "id": "a2",
+        "nama": "Jangkar"
+      },
+      {
+        "id": "a3",
+        "nama": "Kangean"
+      }
+    ],
+    "tujuan": [
+      {
+        "id": "b1",
+        "nama": "Kalianget"
+      },
+      {
+        "id": "b2",
+        "nama": "Jangkar"
+      },
+      {
+        "id": "b3",
+        "nama": "Kangean"
+      }
+    ],
+    "kategori": [
+      {
+        "id": "c1",
+        "nama": "Ekonomi"
+      },
+      {
+        "id": "c2",
+        "nama": "VIP"
+      }
+    ],
+    "jenis": [
+      {
+        "id": "d1",
+        "nama": "Dewasa"
+      },
+      {
+        "id": "d2",
+        "nama": "Bayi"
+      }
+    ],
+    "harga": [
+      "40.000",
+      "125.000",
+      "150.000"
+    ],
+    "waktu": [
+      "10:00 WIB",
+      "08:000 WIB"
+    ],
+    "hari": [
+      "senin",
+      "selasa",
+      "rabu",
+      "kamis",
+      "jumat",
+      "sabtu",
+      "minggu"
+    ]
+  },
+  "Express Bahari": {
+    "asal": [
+      "Kalianget",
+      "Jangkar",
+      "Kangean"
+    ],
+    "tujuan": [
+      "Kangean",
+      "Kalianget",
+      "Jangkar"
+    ],
+    "kategori": [
+      "Ekonomi",
+      "VIP",
+      "Ekonomi Executive",
+      "VIP Executive"
+    ],
+    "jenis": [
+      "Dewasa",
+      "Anak-anak",
+      "Bayi"
+    ],
+    "harga": [
+      "15.000",
+      "175.000",
+      "185.000",
+      "195.000",
+      "205.000"
+    ],
+    "waktu": [
+      {
+        "berangkat": [
+          "10:00 WIB",
+          "13:00 WIB"
+        ]
+      },
+      {
+        "sampai": [
+          "13:30 WIB",
+          "16:30 WIB"
+        ]
+      }
+    ],
+    "hari": [
+      "senin",
+      "selasa",
+      "rabu",
+      "kamis",
+      "jumat",
+      "sabtu",
+      "minggu"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "565467298061",
+    "project_id": "e-tiket-kapal-laut",
+    "storage_bucket": "e-tiket-kapal-laut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565467298061:android:baeaeef31fff888c6ad844",
+        "android_client_info": {
+          "package_name": "com.example.e_tiket_kapal_ta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565467298061-cdl6se596pe4djqn71ihua7k8em6vavq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GqcPnUrfl64frmRLOqRy1oi022POckY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565467298061-cdl6se596pe4djqn71ihua7k8em6vavq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565467298061-v8k9r19r8b3b8ud2sgh236kojv6c4it9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eTiketKapalTa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
